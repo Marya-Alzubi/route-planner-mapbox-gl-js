@@ -2,9 +2,8 @@
 
 A React + TypeScript route-planning app using Mapbox GL JS. Users can add/reorder up to 25 stops, fetch a driving route, optimize stop order on the client, and simulate a vehicle moving along the route with completed vs remaining segments.
 
-( a demo video attached below)
+<img width="1512" height="982" alt="Screenshot 2026-02-14 at 12 41 46" src="https://github.com/user-attachments/assets/b75ee5cf-3e75-4d94-a10c-64e3b2dcde72" />
 
-<img width="1512" height="982" alt="Screenshot 2026-02-14 at 12 31 40" src="https://github.com/user-attachments/assets/c7812b29-505a-41ae-acb8-61e83ce9608d" />
 
 ### Demo link: https://drive.google.com/file/d/1CFuzFuQup3TUyUTD94kWobQWA0DZtqxd/view?usp=sharing
 ---
